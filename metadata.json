@@ -1,0 +1,8 @@
+{
+  "name": "Remix Telco Customer Segmentation AI Studio",
+  "description": "Plataforma empresarial de segmentación de clientes telco con K-Means, validación bootstrap, optimización de clusters (Codo, Silhouette, Gap Statistic) e interpretación ejecutiva con Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
